@@ -1,0 +1,1 @@
+Data Science project made for university from scratch. First part utilizes basic machine learning principles. Second part focuses on clustering. Third part using Neural networks using PyTorch. Refer to doc for more information.
