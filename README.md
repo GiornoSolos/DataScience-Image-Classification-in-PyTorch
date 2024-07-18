@@ -1,1 +1,1 @@
-Data Science project made for university from scratch. First part utilizes basic machine learning principles. Second part focuses on clustering. Third part using Neural networks using PyTorch. Refer to the PDF file for EDA and corresponding report.
+Data Science project that was made for the university from scratch. The first part utilizes basic machine learning principles. The second part focuses on clustering. Third part using Neural networks using PyTorch. Refer to the PDF file for EDA and the corresponding report. 
